@@ -1,6 +1,6 @@
 <%@ page contentType="text/html; charset=utf-8" language="java" import="java.util.*, java.text.*" errorPage="" %>
 <html>
-    <head><title>JSPApp</title></head>
+    <head><title>Final Project</title></head>
     <body>
         <h1>Final Project - Devops</h1>
         <form>
@@ -54,5 +54,6 @@
                 %>
             </fieldset>
         </form>
+        <h1>Submitted by Immanuel Ben Hefer 309991644</h1>
     </body>
 </html>
